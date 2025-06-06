@@ -9,13 +9,13 @@ export default function AboutPage() {
   const team = [
     {
       name: "Calvince Owino",
-      role: "CEO",
+      role: "Co-founder",
       image: "/placeholder.svg?height=300&width=300",
       bio: "10+ years in software development and business strategy",
     },
     {
       name: "Cephas Eddy",
-      role: "Co-CEO",
+      role: "Co-founder",
       image: "/placeholder.svg?height=300&width=300",
       bio: "Expert in full-stack development and system architecture",
     },
